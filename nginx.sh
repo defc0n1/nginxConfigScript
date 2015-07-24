@@ -44,7 +44,7 @@ location ~ \.php$ {
 
 #-------------------
 
-for i in {0..18}; #in ${dirname[@]}
+for i in ${dirname[@]}
 do
 echo ${dirname[$i]}
 echo ${domain[$i]}
