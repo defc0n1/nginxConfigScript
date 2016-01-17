@@ -93,7 +93,7 @@ service php5-fpm restart
 #--------------------
 
 #benchmark webserver
-#ab -c 1000 -n 100000 http://www.myfreepornpics.com/www.pornhub.com/index.html
+#ab -c 1000 -n 100000 www.cnn.com
 
 
 #---------------------
